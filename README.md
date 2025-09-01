@@ -58,3 +58,6 @@ Automate the creation of complex dimensional models and fact tables.
 Prepare for data engineering interviews and industry use cases.
 
 Build scalable, cloud-native analytical pipelines using best practices.
+
+![WhatsApp Image 2025-08-31 at 02 44 49_b45fc742](https://github.com/user-attachments/assets/12c56900-97d7-4bc5-864b-7e5321cb50d8)
+
